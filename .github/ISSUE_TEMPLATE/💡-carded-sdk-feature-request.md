@@ -1,8 +1,8 @@
 ---
-name: "💡 SDK Feature Request"
+name: "\U0001F4A1 CARDED SDK Feature Request"
 about: Suggest an idea for this project
 title: "[Feature] "
-labels: 'kind:improvement'
+labels: ''
 assignees: ''
 
 ---
